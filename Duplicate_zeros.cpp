@@ -8,9 +8,6 @@ public:
             if (arr[i]==0) count++;
             
         }
-         }
-            }
-            }
         }
     };
     
